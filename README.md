@@ -1,2 +1,2 @@
 # Git
-learnig git
+learnig git and github
